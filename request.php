@@ -1,4 +1,4 @@
 <?php
-echo "<p>name : ".$_GET['name']."</P>";
-echo "<p>email : ".$_GET['email']."</P>";
+echo "<p>name : ".$_GET['n_ame']."</P>";
+echo "<p>email : ".$_GET['e_mail']."</P>";
 ?>
